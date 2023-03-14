@@ -5,7 +5,7 @@ data:
   cwagentconfig.json: |
     {
       "agent": {
-        "region": '{{ .Values.cluster.region | quote }}'
+        "region": {{ .Values.cluster.region | quote }}
       },
       "logs": {
         "metrics_collected": {

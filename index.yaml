@@ -3,12 +3,12 @@ entries:
   cw-container-insight:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-03-14T16:22:06.826531+07:00"
+    created: "2023-03-14T16:35:55.275577+07:00"
     description: A Helm chart for Kubernetes
-    digest: 93faeaeb4eff874011ba52a0c0683d6a9d00db60ba262a82cbb3c6fb9f4a7e98
+    digest: 9d90da0b26efdc787423ac106e6535891078fe30d24702e4661ea28272eed2e6
     name: cw-container-insight
     type: application
     urls:
-    - https://strelok29.github.io/cw-container-insight/cw-container-insight-0.6.0.tgz
-    version: 0.1.0
-generated: "2023-03-14T16:22:06.825573+07:00"
+    - https://strelok29.github.io/cw-container-insight/cw-container-insight-0.7.0.tgz
+    version: 0.7.0
+generated: "2023-03-14T16:35:55.274572+07:00"
